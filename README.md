@@ -1,7 +1,7 @@
 Twitter-Aauth-Wrapper
 =====================
 
-Small wrapper for API v1.1 on top of Abraham Williams Twitter OAuth library to simplify the process of interacting with Twitter's API by usin fewer lines of code and not worrying about sessions or GET variables.
+Small wrapper for API v1.1 on top of Abraham Williams [Twitter OAuth library](https://github.com/abraham/twitteroauth) to simplify the process of interacting with Twitter's API by usin fewer lines of code and not worrying about sessions or GET variables.
 
 
 ## Quick Start
